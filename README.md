@@ -7,7 +7,7 @@ a mod that floods your nether with water
 Q: why  
 A: :3
 
-Q: does it really replace *all* the water?  
+Q: does it really replace *all* the air?  
 A: no, theres a little bit of air inside nether fortresses & 
 bastions. i could probably also remove them if i tried hard 
 enough but im not that evil
