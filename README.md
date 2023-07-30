@@ -17,4 +17,6 @@ A: i am on my way to your house
 
 # Screenshots
 
-hey kuylar upload screenshots thanks
+![image](https://cdn.modrinth.com/data/cq5DJMRg/images/d68bdfa0f3d10e96afafcbb56059b66698fedbe3.png)
+![image](https://cdn.modrinth.com/data/cq5DJMRg/images/45638568f4bae00361bcce835b1181bca214d085.png)
+![image](https://cdn.modrinth.com/data/cq5DJMRg/images/9a3ac6cb51c8d149af81a6bec1a6d55bc639b5fe.png)
