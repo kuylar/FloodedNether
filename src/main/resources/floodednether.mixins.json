@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.kuylar.floodednether.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "NetherCaveCarverMixin",
+    "NetherGenerationMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
